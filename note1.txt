@@ -1,0 +1,9 @@
+Ray Tracing for shadows [Appel 1968]
+Recursive Ray Tracing [Whitted 1980]
+Distributed Ray Tracing [Cook et al. 1984]
+Radiosity [Goral et al. 1984] break through, new techic, computer generate image, cornell box. Largly diifuse. only simple scene
+Hierarchical Radiosity [Hanrahan et al. 1991] Complex, lighting, shallow
+Non-Diffuse Radiosity [Sillion et al. 1991] 
+Monte Carlo Path Tracing [Kajiya et al. 1986] Siggraph, rending equation mathimamticly define physics based. COmputerational intense. Generate many sample to get clean image. Complexity and sturture not matter. Very expensive in 80s but good recently.
+Bidirectional Path Tracing
+MLT: markov chain based, any sample only based on the pervious one. 
