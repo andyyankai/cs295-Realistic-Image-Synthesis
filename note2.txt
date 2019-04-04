@@ -1,0 +1,42 @@
+Radiometry & BRDFs
+Radiometry
+  complicated
+  Light travels in straight lines
+  Unpolarized
+  Ray properties:
+    Wavelength: color(RGB)  
+    Intensity
+  Geo and rad
+  In geo, light as particles
+  polarization not assumed
+  
+  turning machine, energy loss transport kernel.
+  
+  absorbtion of light
+
+Hemispheres is 2d surface, 2 parmater theta:elevation angle, phi: curve
+solid angles: small area on surface, r is radiance theta is the angle d phi is
+
+spherical oordinate:
+2pi
+
+density of power
+
+vacumme radiance on the lane remain same
+solid angle decrease when light source further for area light
+
+point source, 4pirsuare2
+
+BRDFs:
+income light and outcome light, two direction
+no nagivative light
+energy conservation
+
+rough, diffuse
+smooth, specular
+ideal diffuse no energy loss
+ideal specular, normal is between w and w'
+
+microfacet BRDF
+
+
