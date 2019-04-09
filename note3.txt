@@ -1,0 +1,19 @@
+Topic: Direct illumination and Monte Carlo integration
+
+indirect: more complex, reflect twice
+
+Uniform sqpherical light: w_i is interval of adphsisiphere
+dw is the small area
+omiga is the hemisphere
+
+w = [[sin theta cos phi][sin theta sin phi][cos theta]]
+
+Monte Carlo: high dimensional problem
+focus on expect value
+
+Strong law of large number: large number of independed samples, and then calculate the sample mean.
+Hence sample mean = actual mean
+
+density function: anything but f(x)>0 p(x)>0
+
+
