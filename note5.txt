@@ -1,0 +1,20 @@
+Inverse method: find rua then get the sample.
+normal distribution have no close form of function F.
+not scale well in high Dimention.
+
+rejection sampling: f 
+MH algorithm is a chain rule
+
+first draw distance d,
+circle
+ problem
+samples are correlated
+initial sample may follow a different distribution
+
+alias sample, spread out mapping
+
+inverting f:
+apha x = c
+
+theta = cos-1(1-sph)
+cos theta - 1-2theta
