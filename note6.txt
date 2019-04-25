@@ -1,0 +1,7 @@
+Monte Carlo Path
+BRDF sampling
+
+incident radiance*solid angle to projected solid angle
+dw = sin theta dodphi
+
+
