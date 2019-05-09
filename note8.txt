@@ -1,0 +1,10 @@
+ring path sampling limiation
+
+costic randamly smaple points on the curse
+
+L(S|D)(S|D)
+LDD a diffusely emittin sphere
+LDS a collimated beam
+LSD a point light
+LSS a laser beam
+
